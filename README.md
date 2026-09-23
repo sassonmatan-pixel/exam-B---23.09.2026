@@ -1,1 +1,26 @@
 # exam-B---23.09.2026
+Question 1: C
+Question 2: A
+Question 3: C
+Question 4: B
+Question 5: C
+Question 6: B
+Question 7: B
+Question 8: A
+Question 9: B
+Question 10: B
+Question 11: C
+Question 12: C
+Question 13: B
+Question 14: A
+Question 15: C
+Question 16: C
+Question 17: C
+Question 18: B
+Question 19: C
+Question 20: B
+Question 21: B
+Question 22: B
+Question 23: B
+Question 24: B
+Question 25: B
